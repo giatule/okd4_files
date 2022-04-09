@@ -1,7 +1,7 @@
 apiVersion: v1
 baseDomain: okd.local
 metadata:
-  name: lab
+  name: uit
 
 compute:
 - hyperthreading: Enabled
